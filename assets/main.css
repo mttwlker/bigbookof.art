@@ -1,0 +1,76 @@
+/* 
+
+@font-face {
+    font-family:vt323, sans-serif;
+    src: url('http://dev.central.institute/fonts/VT323-Regular.ttf') format('truetype'),         
+    font-weight: normal;
+    font-style: normal;
+}
+
+h1{
+    color: red;
+    background-color:
+    transparent;
+    line-height:34px;
+    font-size:48px;
+    font-family:vt323, sans-serif;
+    font-weight:400;
+}
+
+h2{
+    background-color:
+    transparent;
+    line-height:34px;
+    font-size:24px;
+    font-family:vt323, sans-serif;
+    font-weight:400;
+}
+
+#p5Canvas{
+    
+    width: auto;
+    height: auto;
+    border: 5px solid black; 
+    margin: 0px; 
+    margin-left: auto;
+    margin-right: auto;
+
+    
+}
+
+h3{
+    background-color:
+    transparent;
+    line-height:34px;
+    font-size:48px;
+    font-family:vt323, sans-serif;
+    font-weight:400;
+}
+    
+#u107-10{
+    text-decoration:underline;
+    color:#000000;
+}
+#u531{
+    background-color:transparent;
+}
+
+#u527
+{display:block;
+}
+
+#u188-4{
+    background-color:transparent;
+    line-height:14px;
+    font-size:12px;
+    font-family:vt323, sans-serif;
+    font-weight:400;
+}  */
+
+html, body {
+    margin: 0;
+    padding: 0;
+}
+canvas {
+    display: block;
+}
